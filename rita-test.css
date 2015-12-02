@@ -1,0 +1,28 @@
+// css
+
+body {
+
+}
+#textt {
+  padding: 0;
+  margin-top: 0%;
+  margin-left: 17%;
+  margin-right: 17%;
+
+  color: grey;
+  line-height: 1.4;
+  text-align: left;
+  font-family: 'Crimson Text', serif;
+}
+.instructions {
+  padding: 0;
+  margin-top: 0%;
+  margin-left: 17%;
+  margin-right: 17%;
+
+  color: grey;
+  line-height: 1.4;
+  text-align: left;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.7em;
+}
