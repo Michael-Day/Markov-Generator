@@ -6,6 +6,8 @@ Most of the code is developed from the example on their page.
 
 The display part of it uses the p5.js library (http://p5js.org/).
 
+Outside of Firefox, you might need to run a local server to make this work. The p5.js github page gives good instructions on how to do this: (https://github.com/processing/p5.js/wiki/Local-server)
+
 Have fun with it!
 
 [@mday](https://twitter.com/mday)
